@@ -1,1 +1,2 @@
-Olá, esse projeto lhe ensinará a usar o Git
+Olá, esse projeto lhe ensinará a usar o Git.
+Isso é uma alteração.
